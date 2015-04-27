@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-17 BZR 5609)-product   date = 2015-04-27 23:27:46
+
+BeginCmp
+TimeStamp = /553EA1B3;
+Reference = C1;
+ValeurCmp = 10uF_35V;
+IdModule  = Smd_Electrolytic:10uF_10V_Size_C_5x5_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9FDB;
+Reference = C2;
+ValeurCmp = 220pF_25V;
+IdModule  = Capacitor_Smd_0805:27pF_25V_SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9DF5;
+Reference = C3;
+ValeurCmp = 22nF_25V;
+IdModule  = Capacitor_Smd_0805:27pF_25V_SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9C81;
+Reference = C4;
+ValeurCmp = 330uF_16V;
+IdModule  = Smd_Electrolytic:330uF_16V_Size_F_8x8_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9727;
+Reference = D1;
+ValeurCmp = SS14;
+IdModule  = Diodes:SS14_SMD_DO21AC;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E96C5;
+Reference = L1;
+ValeurCmp = DER0705-15uH;
+IdModule  = Inductors:DER0705-15uH;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EADBF;
+Reference = P1;
+ValeurCmp = V_IN;
+IdModule  = Connectors:mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EB009;
+Reference = P2;
+ValeurCmp = V_REF;
+IdModule  = Connectors:mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EAAFB;
+Reference = P3;
+ValeurCmp = V_OUT;
+IdModule  = Connectors:mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9E74;
+Reference = R1;
+ValeurCmp = 4K7_0W25;
+IdModule  = Resistor_Smd_0805:4k7_0W25_SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E97F2;
+Reference = R2;
+ValeurCmp = 6K8_0W25;
+IdModule  = Resistor_Smd_0805:6k8_0W25_SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E97CF;
+Reference = R3;
+ValeurCmp = 2K2_0W25;
+IdModule  = Resistor_Smd_0805:2k2_0W25_SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EBB76;
+Reference = R4;
+ValeurCmp = 0R_0W25;
+IdModule  = Resistor_Smd_0805:0R_0W25_SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553E9482;
+Reference = U1;
+ValeurCmp = L5973d;
+IdModule  = Switching:L5973d_SO8;
+EndCmp
+
+EndListe

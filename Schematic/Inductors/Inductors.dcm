@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DER0705-15uH
+D 15uH 1.33A Power Coil
+K SMD Power Coil
+F Inductors/Components_Documentation/FerroCore_SMD_Power_Coil.pdf
+$ENDCMP
+#
+$CMP DL0603-10
+D Inductor: Ferrite; 10uH; 3mA; 1,85Ω; SMD; 0603
+K Inductor
+F Inductors/Components_Documentation/FerroCore_DL0603-10.pdf
+$ENDCMP
+#
+#End Doc Library

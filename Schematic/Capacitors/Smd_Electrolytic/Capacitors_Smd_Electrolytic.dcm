@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1000uF_6V3_SMD
+D 1000uF 6V3 Aluminum Electrolytic Capacitor Series FK
+K Capacitor
+F Capacitors/Smd_Electrolytic/Components_Documentation/Smd_Capacitor_Aluminum_Panasonic.pdf
+$ENDCMP
+#
+$CMP 10uF_35V_SMD
+D 10uF 35V Aluminum Electrolytic Capacitor Series FK
+K Capacitor
+F D:/Git_Kicad_Library/Schematic/Capacitors/Smd_Electrolytic/Components_Documentation/Smd_Capacitor_Aluminum_Panasonic.pdf
+$ENDCMP
+#
+$CMP 330uF_16V_SMD
+D 330uF 16V Aluminum Electrolytic Capacitor Series FK
+K Capacitor
+F D:/Git_Kicad_Library/Schematic/Capacitors/Smd_Electrolytic/Components_Documentation/Smd_Capacitor_Aluminum_Panasonic.pdf
+$ENDCMP
+#
+#End Doc Library
